@@ -36,8 +36,8 @@ tags:
 - Business
 - Bond Markets
 - Articles
-created: "2018-03-10"
-modified: "2018-03-10"
+created: "2018-03-15"
+modified: "2018-03-15"
 url: https://raw.githubusercontent.com/streamdata-gallery/currency/master/_listings/xignite/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -49,7 +49,7 @@ apis:
   tags: Currency
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/currency/master/_listings/xignite/getcurrencyintradaychartcustom-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/currency/master/_listings/xignite/getcurrencyreport-post.md
 x-common:
 - type: x-net-sdk
   url: http://xignite.github.io/DotNetSDK/
